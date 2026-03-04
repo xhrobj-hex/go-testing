@@ -1,0 +1,1 @@
+[![CI](https://github.com/xhrobj-hex/go-testing/actions/workflows/ci.yaml/badge.svg)](https://github.com/xhrobj-hex/go-testing/actions)
