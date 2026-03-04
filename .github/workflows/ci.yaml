@@ -16,4 +16,4 @@ jobs:
           go-version-file: go.mod
 
       - name: (^_^) Run tests
-        run: go test ./...
+        run: make test
